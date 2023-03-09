@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href"https://github.com/astr0ns">   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=safira-d&show_icons=true&theme=midnight-009ED3"></img>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safira-d&layout=compact&theme=midnight-009ED3"></div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=safira-d&show_icons=true&theme=midnight-009ED3"></img>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safira-d&layout=compact&theme=midnight-009ED3"></div>
   </a>
 </div>
 
