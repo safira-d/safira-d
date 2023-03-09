@@ -1,4 +1,19 @@
+##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=009ED3&center=true&vCenter=true&width=1000&lines=Olá+,+meu+Nome+é+Gabriella+Dantas.+;+Seja+bem+vindo(a)+ao+meu+perfil.)](https://git.io/typing-svg)
 
+<div>
+- 👨🏾‍🎓 Estudante de INI(Informática para Internet) no ITB.<br> - 📓 Estudando para me tornar um Desenvolvedor Web.
+
+</div>
+
+##
+
+<div align="center">
+  <a href"https://github.com/astr0ns">   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=safira-d&show_icons=true&theme=midnight-purple"></img>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safira-d&layout=compact&theme=midnight-purple"></div>
+  </a>
+</div>
 
 - 🖥 Estudante de INI (Informática para Internet) no ITB.
 - 🖊 Estudando para ser Designer e Programadora.
