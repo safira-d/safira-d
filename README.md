@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href"https://github.com/safira-d">   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=safira-d&show_icons=true&theme=midnight-purple"></img>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safira-d&layout=compact&theme=midnight-purple"></div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=safira-d&show_icons=true&theme=midnight-purple"></img>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safira-d&layout=compact&theme=midnight-purple"></div>
   </a>
 </div>
 
