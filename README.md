@@ -17,8 +17,6 @@
   </a>
 </div>
 
-- 🖥 Estudante de INI (Informática para Internet) no ITB.
-- 🖊 Estudando para ser Designer e Programadora.
 
 ## Conhecimento 
 <div style="display: inline_block"><br>
