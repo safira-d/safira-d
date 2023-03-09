@@ -1,5 +1,5 @@
 ##
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=A456F7&center=true&vCenter=true&width=1000&lines=Olá+,+meu+Nome+é+Gabriella+Dantas.+;+Seja+bem+vindo(a)+ao+meu+perfil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=A456F7&center=true&vCenter=true&width=1000&lines=Olá+,+meu+nome+é+Gabriella+Dantas.+;+Seja+bem+vindo(a)+ao+meu+perfil.)](https://git.io/typing-svg)
 
 <div>
   🖥 Estudante de INI (Informática para Internet) no ITB.
