@@ -4,7 +4,7 @@
 <div>
   🖥 Estudante de INI (Informática para Internet) no ITB.
 
-  🖊 Estudando para ser Designer e Programadora.
+
 
 </div>
 
